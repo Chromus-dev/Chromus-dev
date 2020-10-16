@@ -11,7 +11,7 @@
 
 <!-- Tools -->
 [vscode]: https://code.visualstudio.com/
-[gtihub]: https://www.github.com/
+[github]: https://www.github.com/
 [git]: https://git-scm.com/
 
 
