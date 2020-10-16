@@ -8,4 +8,4 @@ Spotify
 
 Guthub Stats
 
-[![Chromus' github stats](https://github-readme-stats.vercel.app/api?username=Chromus-dev)](https://github.com/Chromus-dev/github-readme-stats)
+[![Chromus' github stats](https://github-readme-stats.vercel.app/api?username=Chromus-dev&theme=vue&show_icons=true)]
