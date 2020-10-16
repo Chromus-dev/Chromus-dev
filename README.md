@@ -48,10 +48,10 @@
 
 ### Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#854](https://github.com/PKief/vscode-material-icon-theme/issues/854) in [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme)
-2. ❗️ Reopened issue [#53](https://github.com/FaithfulTweaks/FaithfulTweaks/issues/53) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
-3. 🎉 Merged PR [#54](https://github.com/FaithfulTweaks/FaithfulTweaks/pull/54) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
-4. ❗️ Closed issue [#53](https://github.com/FaithfulTweaks/FaithfulTweaks/issues/53) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
+1. 🎉 Merged PR [#2](https://github.com/Chromus-dev/VanillaExtract/pull/2) in [Chromus-dev/VanillaExtract](https://github.com/Chromus-dev/VanillaExtract)
+2. 💪 Opened PR [#2](https://github.com/Chromus-dev/VanillaExtract/pull/2) in [Chromus-dev/VanillaExtract](https://github.com/Chromus-dev/VanillaExtract)
+3. 🎉 Merged PR [#1](https://github.com/Chromus-dev/VanillaExtract/pull/1) in [Chromus-dev/VanillaExtract](https://github.com/Chromus-dev/VanillaExtract)
+4. 💪 Opened PR [#1](https://github.com/Chromus-dev/VanillaExtract/pull/1) in [Chromus-dev/VanillaExtract](https://github.com/Chromus-dev/VanillaExtract)
 5. 💪 Opened PR [#54](https://github.com/FaithfulTweaks/FaithfulTweaks/pull/54) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
 <!--END_SECTION:activity-->
 
