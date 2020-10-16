@@ -41,10 +41,8 @@
 <br>
 
 ### Github Stats 📄
-[<img src="https://github-readme-stats.vercel.app/api?username=Banakin&count_private=true&show_icons=true&theme=tokyonight" alt="Banakin's github stats" width="550px" />][stats]
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Banakin&layout=compact&theme=tokyonight" alt="Top Langs" width="350px" />][stats]
-![Chromus' github stats](https://github-readme-stats.vercel.app/api?username=Chromus-dev&theme=vue&count_private=true&show_icons=true)[stats]
-![Chromus' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chromus-dev&theme=vue)[stats]
+![Chromus' github stats](https://github-readme-stats.vercel.app/api?username=Chromus-dev&theme=vue&count_private=true&show_icons=true)
+![Chromus' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chromus-dev&layout=compact&theme=vue)
 
 ### Recent Activity ⚡
 <!--START_SECTION:activity-->
