@@ -23,6 +23,7 @@
 
 <!-- Title -->
 <h1 align="center">Hey! 👋 I'm Chromus</h1>
+<h3 align="center">I am a "developer", graphic designer, and sometimes gamer. I love <a href="https://open.spotify.com/playlist/77T2I0mzFFVkxjNfcvF1Nd?si=IwBJ0lHJSImBThk20KdjBA">80's music</a>. Some of my favorite games include <a href="https://www.minecraft.net/">Minecraft</a> and <a href="https://rocketleague.com">Rocket League</a>.</h3>
 
 ### Socials 📷
 
