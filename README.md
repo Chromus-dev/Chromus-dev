@@ -56,8 +56,8 @@
 
 ### Recent Activity ⚡
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Chromus-dev/VanillaExtract/pull/2) in [Chromus-dev/VanillaExtract](https://github.com/Chromus-dev/VanillaExtract)
-2. 💪 Opened PR [#2](https://github.com/Chromus-dev/VanillaExtract/pull/2) in [Chromus-dev/VanillaExtract](https://github.com/Chromus-dev/VanillaExtract)
+1. 🎉 Merged PR [#4](https://github.com/Vanilla-Extract/Extractor/pull/4) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+2. 💪 Opened PR [#4](https://github.com/Vanilla-Extract/Extractor/pull/4) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
 3. 🎉 Merged PR [#1](https://github.com/Chromus-dev/VanillaExtract/pull/1) in [Chromus-dev/VanillaExtract](https://github.com/Chromus-dev/VanillaExtract)
 4. 💪 Opened PR [#1](https://github.com/Chromus-dev/VanillaExtract/pull/1) in [Chromus-dev/VanillaExtract](https://github.com/Chromus-dev/VanillaExtract)
 5. 💪 Opened PR [#54](https://github.com/FaithfulTweaks/FaithfulTweaks/pull/54) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
