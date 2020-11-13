@@ -52,12 +52,3 @@
 
 ![Chromus' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chromus-dev&layout=compact&theme=vue)
 
-### Recent Activity ⚡
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/Vanilla-Extract/Extractor/issues/8) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
-2. 🎉 Merged PR [#4](https://github.com/Vanilla-Extract/Extractor/pull/4) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
-3. 💪 Opened PR [#4](https://github.com/Vanilla-Extract/Extractor/pull/4) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
-4. 💪 Opened PR [#1](https://github.com/Chromus-dev/VanillaExtract/pull/1) in [Chromus-dev/VanillaExtract](https://github.com/Chromus-dev/VanillaExtract)
-5. 💪 Opened PR [#54](https://github.com/FaithfulTweaks/FaithfulTweaks/pull/54) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
-<!--END_SECTION:activity-->
-
