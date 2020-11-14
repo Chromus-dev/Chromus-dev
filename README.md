@@ -1,9 +1,10 @@
 <!-- My Links/Socials -->
 [stats]: https://github.com/anuraghazra/github-readme-stats
 [vanillaextract]: https://discord.io/vanillaextract
-[website]: https://chromus-dev.github.io
+[website]: https://chromus.tk
 [youtube]: https://www.youtube.com/channel/UCF9UXPuVNxAqHAdK1O-xI-w
 [spotify]: https://open.spotify.com/user/csf5ivmzarxnrbpfi18vbe4id
+
 
 <!-- Languages -->
 [html]: https://en.wikipedia.org/wiki/HTML
