@@ -23,9 +23,7 @@
 
 <!-- Title -->
 <h1 align="center">Hey! 👋 I'm Chromus</h1>
-<h3 align="center">I am a "developer", graphic designer, and sometimes gamer. I love <a href="https://open.spotify.com/playlist/77T2I0mzFFVkxjNfcvF1Nd?si=IwBJ0lHJSImBThk20KdjBA">80's music</a>. Some of my favorite games include <a href="https://www.minecraft.net/">Minecraft</a> and <a href="https://rocketleague.com">Rocket League</a>.</h3>
-
-### Socials 📷
+<h3 align="center">I am a developer, graphic designer, and sometimes gamer. I love <a href="https://open.spotify.com/playlist/77T2I0mzFFVkxjNfcvF1Nd?si=IwBJ0lHJSImBThk20KdjBA">80's music</a>. Some of my favorite games include <a href="https://www.minecraft.net/">Minecraft</a> and <a href="https://rocketleague.com">Rocket League</a>.</h3>
 
 ### Languages I'm Familiar With 👨‍💻
 [<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>][html]
@@ -59,13 +57,4 @@
 ![Chromus' Github Stats](https://github-readme-stats.vercel.app/api?username=Chromus-dev&theme=vue&count_private=true&show_icons=true)
 
 ![Chromus' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chromus-dev&layout=compact&theme=vue)
-
-### Recent Activity ⚡
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Chromus-dev/VanillaExtract/pull/2) in [Chromus-dev/VanillaExtract](https://github.com/Chromus-dev/VanillaExtract)
-2. 💪 Opened PR [#2](https://github.com/Chromus-dev/VanillaExtract/pull/2) in [Chromus-dev/VanillaExtract](https://github.com/Chromus-dev/VanillaExtract)
-3. 🎉 Merged PR [#1](https://github.com/Chromus-dev/VanillaExtract/pull/1) in [Chromus-dev/VanillaExtract](https://github.com/Chromus-dev/VanillaExtract)
-4. 💪 Opened PR [#1](https://github.com/Chromus-dev/VanillaExtract/pull/1) in [Chromus-dev/VanillaExtract](https://github.com/Chromus-dev/VanillaExtract)
-5. 💪 Opened PR [#54](https://github.com/FaithfulTweaks/FaithfulTweaks/pull/54) in [FaithfulTweaks/FaithfulTweaks](https://github.com/FaithfulTweaks/FaithfulTweaks)
-<!--END_SECTION:activity-->
 
