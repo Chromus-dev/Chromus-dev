@@ -48,7 +48,7 @@
 <br>
 
 ### Discord Status
-<img align="center" src="https://gt.bigdumb.gq/api/badge/511758610720751626?color1=FEFEFE&textcolor=53BE8E&font=Arial&gradient=false&borderradius=15&bordercolor=#E4E2E2&borderwidth=100" alt="My discord status">
+<img align="center" src="https://gt.bigdumb.gq/api/badge/511758610720751626?color1=FEFEFE&textcolor=53BE8E&font=Arial&gradient=false&borderradius=15&bordercolor=E4E2E2&borderwidth=100" alt="My discord status">
 
 
 <br>
