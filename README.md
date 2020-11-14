@@ -49,6 +49,12 @@
 
 <br>
 
+### Discord Status
+<img align="center" src="https://gt.bigdumb.gq/api/badge/511758610720751626?color1=292D3D&textcolor=C692E7&font=Arial&gradient=false&borderradius=15&bordercolor=ffffff&borderwidth=3" alt="My discord status">
+
+
+<br>
+
 ### Github Stats 📄
 ![Chromus' Github Stats](https://github-readme-stats.vercel.app/api?username=Chromus-dev&theme=vue&count_private=true&show_icons=true)
 
