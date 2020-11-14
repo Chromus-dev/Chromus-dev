@@ -35,7 +35,7 @@
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>][git]
 [<img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="github" width="40" height="40"/>][github]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Affinity_designer_icon_2019.png" alt="affinity designer" width="40" height="40"/>][afdesigner]
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Affinity_Photo_icon.png" alt="affinity designer" width="40" height="40" style="border-radius:50px"/>][afphoto]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Affinity_Photo_icon.png" alt="affinity designer" width="40" height="40"/>][afphoto]
 
 ### On My Radar 🔎
 [<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>][javascript]
