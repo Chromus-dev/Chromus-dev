@@ -18,7 +18,6 @@
 [afdesigner]: https://affinity.serif.com/en-us/designer/
 [afphoto]: https://affinity.serif.com/en-us/photo/
 
-
 <!-- Radar -->
 [javascript]: https://en.wikipedia.org/wiki/JavaScript
 
@@ -41,18 +40,11 @@
 ### On My Radar 🔎
 [<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>][javascript]
 
-<br>
-
 ### Spotify 🎧
 [![Spotify](https://novatorem-b1zrxxjw6.vercel.app/api/spotify)](https://open.spotify.com/user/csf5ivmzarxnrbpfi18vbe4id)
 
-<br>
-
 ### Discord Status
 <img align="center" src="https://gt.bigdumb.gq/api/badge/511758610720751626?color1=FEFEFE&textcolor=53BE8E&font=Arial&gradient=false&borderradius=20&bordercolor=E4E2E2&borderwidth=7" alt="My discord status"  >
-
-
-<br>
 
 ### Github Stats 📄
 ![Chromus' Github Stats](https://github-readme-stats.vercel.app/api?username=Chromus-dev&theme=vue&count_private=true&show_icons=true)
