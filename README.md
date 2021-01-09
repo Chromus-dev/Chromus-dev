@@ -43,9 +43,6 @@
 ### Spotify 🎧
 [![Spotify](https://novatorem-b1zrxxjw6.vercel.app/api/spotify)](https://open.spotify.com/user/csf5ivmzarxnrbpfi18vbe4id)
 
-### Discord Status
-<img align="center" src="https://gt.bigdumb.gq/api/badge/511758610720751626?color1=FEFEFE&textcolor=53BE8E&font=Arial&gradient=false&borderradius=20&bordercolor=E4E2E2&borderwidth=7" alt="My discord status"  >
-
 ### Github Stats 📄
 ![Chromus' Github Stats](https://github-readme-stats.vercel.app/api?username=Chromus-dev&theme=vue&count_private=true&show_icons=true)
 
