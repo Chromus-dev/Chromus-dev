@@ -41,11 +41,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2432](https://github.com/webpack/webpack-cli/pull/2432) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-2. 🎉 Merged PR [#2425](https://github.com/webpack/webpack-cli/pull/2425) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-3. 💪 Opened PR [#2425](https://github.com/webpack/webpack-cli/pull/2425) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-4. 🎉 Merged PR [#2424](https://github.com/webpack/webpack-cli/pull/2424) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-5. 💪 Opened PR [#2424](https://github.com/webpack/webpack-cli/pull/2424) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+1. ❗️ Opened issue [#1](https://github.com/RealZorby/Harvest-Client/issues/1) in [RealZorby/Harvest-Client](https://github.com/RealZorby/Harvest-Client)
+2. ❗️ Opened issue [#3](https://github.com/Harvest-Client-Team/Bot/issues/3) in [Harvest-Client-Team/Bot](https://github.com/Harvest-Client-Team/Bot)
+3. ❗️ Opened issue [#2](https://github.com/Harvest-Client-Team/Bot/issues/2) in [Harvest-Client-Team/Bot](https://github.com/Harvest-Client-Team/Bot)
+4. 🎉 Merged PR [#1](https://github.com/Chromus-dev/Bot/pull/1) in [Chromus-dev/Bot](https://github.com/Chromus-dev/Bot)
+5. 🎉 Merged PR [#14](https://github.com/Chromus-dev/actual-bot/pull/14) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
 <!--END_SECTION:activity-->
 
 ### Github Stats 📄
