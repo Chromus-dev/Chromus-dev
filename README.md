@@ -41,11 +41,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/Harvest-Client-Team/Bot/issues/2) in [Harvest-Client-Team/Bot](https://github.com/Harvest-Client-Team/Bot)
+1. ❗️ Reopened issue [#2](https://github.com/Harvest-Client-Team/Bot/issues/2) in [Harvest-Client-Team/Bot](https://github.com/Harvest-Client-Team/Bot)
 2. 🗣 Commented on [#2](https://github.com/Harvest-Client-Team/Bot/issues/2) in [Harvest-Client-Team/Bot](https://github.com/Harvest-Client-Team/Bot)
-3. ❗️ Opened issue [#1](https://github.com/RealZorby/Harvest-Client/issues/1) in [RealZorby/Harvest-Client](https://github.com/RealZorby/Harvest-Client)
-4. ❗️ Opened issue [#3](https://github.com/Harvest-Client-Team/Bot/issues/3) in [Harvest-Client-Team/Bot](https://github.com/Harvest-Client-Team/Bot)
-5. ❗️ Opened issue [#2](https://github.com/Harvest-Client-Team/Bot/issues/2) in [Harvest-Client-Team/Bot](https://github.com/Harvest-Client-Team/Bot)
+3. ❗️ Closed issue [#2](https://github.com/Harvest-Client-Team/Bot/issues/2) in [Harvest-Client-Team/Bot](https://github.com/Harvest-Client-Team/Bot)
+4. 🗣 Commented on [#2](https://github.com/Harvest-Client-Team/Bot/issues/2) in [Harvest-Client-Team/Bot](https://github.com/Harvest-Client-Team/Bot)
+5. ❗️ Opened issue [#1](https://github.com/RealZorby/Harvest-Client/issues/1) in [RealZorby/Harvest-Client](https://github.com/RealZorby/Harvest-Client)
 <!--END_SECTION:activity-->
 
 ### Github Stats 📄
