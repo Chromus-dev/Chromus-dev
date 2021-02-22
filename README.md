@@ -41,11 +41,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#364](https://github.com/powercord-community/suggestions/issues/364) in [powercord-community/suggestions](https://github.com/powercord-community/suggestions)
-2. 🎉 Merged PR [#15](https://github.com/Chromus-dev/actual-bot/pull/15) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
-3. 🎉 Merged PR [#16](https://github.com/Chromus-dev/actual-bot/pull/16) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
-4. 🎉 Merged PR [#17](https://github.com/Chromus-dev/actual-bot/pull/17) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
-5. 🎉 Merged PR [#18](https://github.com/Chromus-dev/actual-bot/pull/18) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
+1. 💪 Opened PR [#2](https://github.com/ewanhowell5195/customOptiFineCapeServer/pull/2) in [ewanhowell5195/customOptiFineCapeServer](https://github.com/ewanhowell5195/customOptiFineCapeServer)
+2. ❗️ Opened issue [#364](https://github.com/powercord-community/suggestions/issues/364) in [powercord-community/suggestions](https://github.com/powercord-community/suggestions)
+3. 🎉 Merged PR [#15](https://github.com/Chromus-dev/actual-bot/pull/15) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
+4. 🎉 Merged PR [#16](https://github.com/Chromus-dev/actual-bot/pull/16) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
+5. 🎉 Merged PR [#17](https://github.com/Chromus-dev/actual-bot/pull/17) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
 <!--END_SECTION:activity-->
 
 ### Github Stats 📄
