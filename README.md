@@ -41,11 +41,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/Harvest-Client-Team/Bot/issues/4) in [Harvest-Client-Team/Bot](https://github.com/Harvest-Client-Team/Bot)
-2. 🗣 Commented on [#4](https://github.com/Harvest-Client-Team/Bot/issues/4) in [Harvest-Client-Team/Bot](https://github.com/Harvest-Client-Team/Bot)
-3. ❗️ Reopened issue [#2](https://github.com/Harvest-Client-Team/Bot/issues/2) in [Harvest-Client-Team/Bot](https://github.com/Harvest-Client-Team/Bot)
-4. 🗣 Commented on [#2](https://github.com/Harvest-Client-Team/Bot/issues/2) in [Harvest-Client-Team/Bot](https://github.com/Harvest-Client-Team/Bot)
-5. ❗️ Closed issue [#2](https://github.com/Harvest-Client-Team/Bot/issues/2) in [Harvest-Client-Team/Bot](https://github.com/Harvest-Client-Team/Bot)
+1. 🎉 Merged PR [#15](https://github.com/Chromus-dev/actual-bot/pull/15) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
+2. 🎉 Merged PR [#16](https://github.com/Chromus-dev/actual-bot/pull/16) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
+3. 🎉 Merged PR [#17](https://github.com/Chromus-dev/actual-bot/pull/17) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
+4. 🎉 Merged PR [#18](https://github.com/Chromus-dev/actual-bot/pull/18) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
+5. ❗️ Closed issue [#4](https://github.com/Harvest-Client-Team/Bot/issues/4) in [Harvest-Client-Team/Bot](https://github.com/Harvest-Client-Team/Bot)
 <!--END_SECTION:activity-->
 
 ### Github Stats 📄
