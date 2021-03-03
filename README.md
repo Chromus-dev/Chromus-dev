@@ -41,11 +41,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/Chromus-dev/actual-bot/pull/22) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
-2. 🎉 Merged PR [#21](https://github.com/Chromus-dev/actual-bot/pull/21) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
-3. 🎉 Merged PR [#20](https://github.com/Chromus-dev/actual-bot/pull/20) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
-4. 🎉 Merged PR [#19](https://github.com/Chromus-dev/actual-bot/pull/19) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
-5. ❌ Closed PR [#2](https://github.com/ewanhowell5195/customOptiFineCapeServer/pull/2) in [ewanhowell5195/customOptiFineCapeServer](https://github.com/ewanhowell5195/customOptiFineCapeServer)
+1. ❗️ Closed issue [#1](https://github.com/Vanilla-Extract/Extractor/issues/1) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+2. 🎉 Merged PR [#22](https://github.com/Chromus-dev/actual-bot/pull/22) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
+3. 🎉 Merged PR [#21](https://github.com/Chromus-dev/actual-bot/pull/21) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
+4. 🎉 Merged PR [#20](https://github.com/Chromus-dev/actual-bot/pull/20) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
+5. 🎉 Merged PR [#19](https://github.com/Chromus-dev/actual-bot/pull/19) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
 <!--END_SECTION:activity-->
 
 ### Github Stats 📄
