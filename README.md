@@ -41,11 +41,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/Chromus-dev/actual-bot/pull/24) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
-2. 🎉 Merged PR [#23](https://github.com/Chromus-dev/actual-bot/pull/23) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
-3. ❗️ Closed issue [#1](https://github.com/Vanilla-Extract/Extractor/issues/1) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
-4. 🎉 Merged PR [#22](https://github.com/Chromus-dev/actual-bot/pull/22) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
-5. 🎉 Merged PR [#21](https://github.com/Chromus-dev/actual-bot/pull/21) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
+1. ❌ Closed PR [#25](https://github.com/Chromus-dev/actual-bot/pull/25) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
+2. 🎉 Merged PR [#24](https://github.com/Chromus-dev/actual-bot/pull/24) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
+3. 🎉 Merged PR [#23](https://github.com/Chromus-dev/actual-bot/pull/23) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
+4. ❗️ Closed issue [#1](https://github.com/Vanilla-Extract/Extractor/issues/1) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+5. 🎉 Merged PR [#22](https://github.com/Chromus-dev/actual-bot/pull/22) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
 <!--END_SECTION:activity-->
 
 ### Github Stats 📄
