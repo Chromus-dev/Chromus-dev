@@ -41,11 +41,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/ewanhowell5195/discord_bot_assets/issues/1) in [ewanhowell5195/discord_bot_assets](https://github.com/ewanhowell5195/discord_bot_assets)
-2. 🗣 Commented on [#55](https://github.com/Beatso/Bjorn/issues/55) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-3. ❌ Closed PR [#26](https://github.com/Chromus-dev/actual-bot/pull/26) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
-4. 🎉 Merged PR [#27](https://github.com/Chromus-dev/actual-bot/pull/27) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
-5. 🎉 Merged PR [#28](https://github.com/Chromus-dev/actual-bot/pull/28) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
+1. ❗️ Opened issue [#7](https://github.com/Harvest-Client-Team/Harvester/issues/7) in [Harvest-Client-Team/Harvester](https://github.com/Harvest-Client-Team/Harvester)
+2. ❗️ Opened issue [#6](https://github.com/Harvest-Client-Team/Harvester/issues/6) in [Harvest-Client-Team/Harvester](https://github.com/Harvest-Client-Team/Harvester)
+3. ❗️ Opened issue [#5](https://github.com/Harvest-Client-Team/Harvester/issues/5) in [Harvest-Client-Team/Harvester](https://github.com/Harvest-Client-Team/Harvester)
+4. ❗️ Opened issue [#1](https://github.com/ewanhowell5195/discord_bot_assets/issues/1) in [ewanhowell5195/discord_bot_assets](https://github.com/ewanhowell5195/discord_bot_assets)
+5. 🗣 Commented on [#55](https://github.com/Beatso/Bjorn/issues/55) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
 <!--END_SECTION:activity-->
 
 ### Github Stats 📄
