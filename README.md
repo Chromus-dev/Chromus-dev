@@ -41,11 +41,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#30](https://github.com/Harvest-Client-Team/Harvester/issues/30) in [Harvest-Client-Team/Harvester](https://github.com/Harvest-Client-Team/Harvester)
-2. ❗️ Opened issue [#29](https://github.com/Harvest-Client-Team/Harvester/issues/29) in [Harvest-Client-Team/Harvester](https://github.com/Harvest-Client-Team/Harvester)
-3. ❗️ Closed issue [#28](https://github.com/Harvest-Client-Team/Harvester/issues/28) in [Harvest-Client-Team/Harvester](https://github.com/Harvest-Client-Team/Harvester)
-4. ❗️ Closed issue [#27](https://github.com/Harvest-Client-Team/Harvester/issues/27) in [Harvest-Client-Team/Harvester](https://github.com/Harvest-Client-Team/Harvester)
-5. ❗️ Opened issue [#28](https://github.com/Harvest-Client-Team/Harvester/issues/28) in [Harvest-Client-Team/Harvester](https://github.com/Harvest-Client-Team/Harvester)
+1. 🎉 Merged PR [#29](https://github.com/Chromus-dev/actual-bot/pull/29) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
+2. ❗️ Opened issue [#30](https://github.com/Harvest-Client-Team/Harvester/issues/30) in [Harvest-Client-Team/Harvester](https://github.com/Harvest-Client-Team/Harvester)
+3. ❗️ Opened issue [#29](https://github.com/Harvest-Client-Team/Harvester/issues/29) in [Harvest-Client-Team/Harvester](https://github.com/Harvest-Client-Team/Harvester)
+4. ❗️ Closed issue [#28](https://github.com/Harvest-Client-Team/Harvester/issues/28) in [Harvest-Client-Team/Harvester](https://github.com/Harvest-Client-Team/Harvester)
+5. ❗️ Closed issue [#27](https://github.com/Harvest-Client-Team/Harvester/issues/27) in [Harvest-Client-Team/Harvester](https://github.com/Harvest-Client-Team/Harvester)
 <!--END_SECTION:activity-->
 
 ### Github Stats 📄
