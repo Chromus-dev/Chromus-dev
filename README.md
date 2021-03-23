@@ -41,11 +41,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#32](https://github.com/Harvest-Client-Team/Harvester/pull/32) in [Harvest-Client-Team/Harvester](https://github.com/Harvest-Client-Team/Harvester)
-2. 🗣 Commented on [#32](https://github.com/Harvest-Client-Team/Harvester/issues/32) in [Harvest-Client-Team/Harvester](https://github.com/Harvest-Client-Team/Harvester)
-3. ❗️ Closed issue [#32](https://github.com/Chromus-dev/actual-bot/issues/32) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
-4. ❗️ Opened issue [#32](https://github.com/Chromus-dev/actual-bot/issues/32) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
-5. ❗️ Closed issue [#30](https://github.com/Chromus-dev/actual-bot/issues/30) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
+1. 🎉 Merged PR [#33](https://github.com/Chromus-dev/actual-bot/pull/33) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
+2. ❌ Closed PR [#32](https://github.com/Harvest-Client-Team/Harvester/pull/32) in [Harvest-Client-Team/Harvester](https://github.com/Harvest-Client-Team/Harvester)
+3. 🗣 Commented on [#32](https://github.com/Harvest-Client-Team/Harvester/issues/32) in [Harvest-Client-Team/Harvester](https://github.com/Harvest-Client-Team/Harvester)
+4. ❗️ Closed issue [#32](https://github.com/Chromus-dev/actual-bot/issues/32) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
+5. ❗️ Opened issue [#32](https://github.com/Chromus-dev/actual-bot/issues/32) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
 <!--END_SECTION:activity-->
 
 ### Github Stats 📄
