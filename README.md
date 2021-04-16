@@ -41,11 +41,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com/Chromus-dev/actual-bot/pull/44) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
-2. ❗️ Opened issue [#2062](https://github.com/benawad/dogehouse/issues/2062) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
-3. 🎉 Merged PR [#43](https://github.com/Chromus-dev/actual-bot/pull/43) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
-4. ❗️ Opened issue [#8](https://github.com/Beatso/NewBjorn/issues/8) in [Beatso/NewBjorn](https://github.com/Beatso/NewBjorn)
-5. ❗️ Opened issue [#7](https://github.com/Beatso/NewBjorn/issues/7) in [Beatso/NewBjorn](https://github.com/Beatso/NewBjorn)
+1. ❗️ Opened issue [#2062](https://github.com/benawad/dogehouse/issues/2062) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+2. ❗️ Opened issue [#8](https://github.com/Beatso/NewBjorn/issues/8) in [Beatso/NewBjorn](https://github.com/Beatso/NewBjorn)
+3. ❗️ Opened issue [#7](https://github.com/Beatso/NewBjorn/issues/7) in [Beatso/NewBjorn](https://github.com/Beatso/NewBjorn)
+4. 🗣 Commented on [#55](https://github.com/Beatso/Bjorn/issues/55) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+5. 💪 Opened PR [#61](https://github.com/Beatso/Bjorn/pull/61) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
 <!--END_SECTION:activity-->
 
 ### Github Stats 📄
