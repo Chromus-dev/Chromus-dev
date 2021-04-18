@@ -41,11 +41,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#65](https://github.com/Beatso/Bjorn/issues/65) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-2. 🗣 Commented on [#51](https://github.com/Beatso/Bjorn/issues/51) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-3. 💪 Opened PR [#69](https://github.com/Beatso/Bjorn/pull/69) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-4. 💪 Opened PR [#68](https://github.com/Beatso/Bjorn/pull/68) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-5. ❗️ Opened issue [#2062](https://github.com/benawad/dogehouse/issues/2062) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+1. 🗣 Commented on [#25](https://github.com/Beatso/Bjorn/issues/25) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+2. 🗣 Commented on [#34](https://github.com/Beatso/Bjorn/issues/34) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+3. 🗣 Commented on [#36](https://github.com/Beatso/Bjorn/issues/36) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+4. 🗣 Commented on [#59](https://github.com/Beatso/Bjorn/issues/59) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+5. 💪 Opened PR [#70](https://github.com/Beatso/Bjorn/pull/70) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
 <!--END_SECTION:activity-->
 
 ### Github Stats 📄
