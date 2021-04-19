@@ -42,10 +42,10 @@
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#77](https://github.com/Compliance-Resource-Pack/Discord-Bot/issues/77) in [Compliance-Resource-Pack/Discord-Bot](https://github.com/Compliance-Resource-Pack/Discord-Bot)
-2. 🗣 Commented on [#25](https://github.com/Beatso/Bjorn/issues/25) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-3. 🗣 Commented on [#34](https://github.com/Beatso/Bjorn/issues/34) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-4. 🗣 Commented on [#36](https://github.com/Beatso/Bjorn/issues/36) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-5. 🗣 Commented on [#59](https://github.com/Beatso/Bjorn/issues/59) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+2. 🗣 Commented on [#77](https://github.com/Compliance-Resource-Pack/Discord-Bot/issues/77) in [Compliance-Resource-Pack/Discord-Bot](https://github.com/Compliance-Resource-Pack/Discord-Bot)
+3. 🗣 Commented on [#25](https://github.com/Beatso/Bjorn/issues/25) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+4. 🗣 Commented on [#34](https://github.com/Beatso/Bjorn/issues/34) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+5. 🗣 Commented on [#36](https://github.com/Beatso/Bjorn/issues/36) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
 <!--END_SECTION:activity-->
 
 ### Github Stats 📄
