@@ -41,11 +41,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#204](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/204) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-2. 🗣 Commented on [#77](https://github.com/Compliance-Resource-Pack/Discord-Bot/issues/77) in [Compliance-Resource-Pack/Discord-Bot](https://github.com/Compliance-Resource-Pack/Discord-Bot)
-3. 🗣 Commented on [#77](https://github.com/Compliance-Resource-Pack/Discord-Bot/issues/77) in [Compliance-Resource-Pack/Discord-Bot](https://github.com/Compliance-Resource-Pack/Discord-Bot)
-4. 🗣 Commented on [#25](https://github.com/Beatso/Bjorn/issues/25) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-5. 🗣 Commented on [#34](https://github.com/Beatso/Bjorn/issues/34) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+1. ❗️ Closed issue [#2](https://github.com/Chromus-dev/uptime/issues/2) in [Chromus-dev/uptime](https://github.com/Chromus-dev/uptime)
+2. 🗣 Commented on [#2](https://github.com/Chromus-dev/uptime/issues/2) in [Chromus-dev/uptime](https://github.com/Chromus-dev/uptime)
+3. ❗️ Opened issue [#2](https://github.com/Chromus-dev/uptime/issues/2) in [Chromus-dev/uptime](https://github.com/Chromus-dev/uptime)
+4. 🗣 Commented on [#204](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/204) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+5. 🗣 Commented on [#77](https://github.com/Compliance-Resource-Pack/Discord-Bot/issues/77) in [Compliance-Resource-Pack/Discord-Bot](https://github.com/Compliance-Resource-Pack/Discord-Bot)
 <!--END_SECTION:activity-->
 
 ### Github Stats 📄
