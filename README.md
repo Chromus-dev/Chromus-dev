@@ -41,11 +41,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47](https://github.com/Chromus-dev/actual-bot/pull/47) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
-2. 🎉 Merged PR [#53](https://github.com/Chromus-dev/actual-bot/pull/53) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
-3. 🎉 Merged PR [#52](https://github.com/Chromus-dev/actual-bot/pull/52) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
-4. ❗️ Closed issue [#2](https://github.com/Chromus-dev/uptime/issues/2) in [Chromus-dev/uptime](https://github.com/Chromus-dev/uptime)
-5. 🗣 Commented on [#2](https://github.com/Chromus-dev/uptime/issues/2) in [Chromus-dev/uptime](https://github.com/Chromus-dev/uptime)
+1. ❌ Closed PR [#50](https://github.com/Chromus-dev/actual-bot/pull/50) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
+2. ❌ Reopened PR [#50](https://github.com/Chromus-dev/actual-bot/pull/50) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
+3. ❌ Closed PR [#50](https://github.com/Chromus-dev/actual-bot/pull/50) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
+4. ❌ Closed PR [#49](https://github.com/Chromus-dev/actual-bot/pull/49) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
+5. 🎉 Merged PR [#54](https://github.com/Chromus-dev/actual-bot/pull/54) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
 <!--END_SECTION:activity-->
 
 ### Github Stats 📄
