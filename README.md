@@ -41,11 +41,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/Chromus-dev/uptime/issues/3) in [Chromus-dev/uptime](https://github.com/Chromus-dev/uptime)
-2. 🗣 Commented on [#3](https://github.com/Chromus-dev/uptime/issues/3) in [Chromus-dev/uptime](https://github.com/Chromus-dev/uptime)
-3. ❗️ Opened issue [#3](https://github.com/Chromus-dev/uptime/issues/3) in [Chromus-dev/uptime](https://github.com/Chromus-dev/uptime)
-4. 🗣 Commented on [#24](https://github.com/Vanilla-Extract/Extractor/issues/24) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
-5. 🗣 Commented on [#24](https://github.com/Vanilla-Extract/Extractor/issues/24) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+1. 💪 Opened PR [#86](https://github.com/Beatso/Bjorn/pull/86) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+2. 🗣 Commented on [#85](https://github.com/Beatso/Bjorn/issues/85) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+3. 🗣 Commented on [#84](https://github.com/Beatso/Bjorn/issues/84) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+4. ❗️ Closed issue [#3](https://github.com/Chromus-dev/uptime/issues/3) in [Chromus-dev/uptime](https://github.com/Chromus-dev/uptime)
+5. 🗣 Commented on [#3](https://github.com/Chromus-dev/uptime/issues/3) in [Chromus-dev/uptime](https://github.com/Chromus-dev/uptime)
 <!--END_SECTION:activity-->
 
 ### Github Stats 📄
