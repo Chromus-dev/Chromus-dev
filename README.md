@@ -41,11 +41,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/Vanilla-Extract/Extractor/issues/23) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
-2. ❌ Closed PR [#25](https://github.com/Vanilla-Extract/Extractor/pull/25) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
-3. 🗣 Commented on [#23](https://github.com/Vanilla-Extract/Extractor/issues/23) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
-4. 💪 Opened PR [#86](https://github.com/Beatso/Bjorn/pull/86) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-5. 🗣 Commented on [#85](https://github.com/Beatso/Bjorn/issues/85) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+1. 🗣 Commented on [#85](https://github.com/Beatso/Bjorn/issues/85) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+2. 🗣 Commented on [#23](https://github.com/Vanilla-Extract/Extractor/issues/23) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+3. ❌ Closed PR [#25](https://github.com/Vanilla-Extract/Extractor/pull/25) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+4. 🗣 Commented on [#23](https://github.com/Vanilla-Extract/Extractor/issues/23) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+5. 💪 Opened PR [#86](https://github.com/Beatso/Bjorn/pull/86) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
 <!--END_SECTION:activity-->
 
 ### Github Stats 📄
