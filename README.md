@@ -41,11 +41,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#92](https://github.com/Beatso/Bjorn/pull/92) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-2. ❗️ Opened issue [#23](https://github.com/joaoh1/OkZoomer/issues/23) in [joaoh1/OkZoomer](https://github.com/joaoh1/OkZoomer)
-3. 🗣 Commented on [#65](https://github.com/Chromus-dev/actual-bot/issues/65) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
-4. 🎉 Merged PR [#69](https://github.com/Chromus-dev/actual-bot/pull/69) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
-5. ❌ Closed PR [#68](https://github.com/Chromus-dev/actual-bot/pull/68) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
+1. 🗣 Commented on [#92](https://github.com/Beatso/Bjorn/issues/92) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+2. 💪 Opened PR [#92](https://github.com/Beatso/Bjorn/pull/92) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+3. ❗️ Opened issue [#23](https://github.com/joaoh1/OkZoomer/issues/23) in [joaoh1/OkZoomer](https://github.com/joaoh1/OkZoomer)
+4. 🗣 Commented on [#65](https://github.com/Chromus-dev/actual-bot/issues/65) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
+5. 🎉 Merged PR [#69](https://github.com/Chromus-dev/actual-bot/pull/69) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
 <!--END_SECTION:activity-->
 
 ### Github Stats 📄
