@@ -41,11 +41,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#233](https://github.com/StormDragon77/FixedInconsistencies/issues/233) in [StormDragon77/FixedInconsistencies](https://github.com/StormDragon77/FixedInconsistencies)
-2. 🗣 Commented on [#92](https://github.com/Beatso/Bjorn/issues/92) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+1. ❗️ Opened issue [#224](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/224) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+2. ❗️ Opened issue [#233](https://github.com/StormDragon77/FixedInconsistencies/issues/233) in [StormDragon77/FixedInconsistencies](https://github.com/StormDragon77/FixedInconsistencies)
 3. 🗣 Commented on [#92](https://github.com/Beatso/Bjorn/issues/92) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-4. 💪 Opened PR [#92](https://github.com/Beatso/Bjorn/pull/92) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-5. ❗️ Opened issue [#23](https://github.com/joaoh1/OkZoomer/issues/23) in [joaoh1/OkZoomer](https://github.com/joaoh1/OkZoomer)
+4. 🗣 Commented on [#92](https://github.com/Beatso/Bjorn/issues/92) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+5. 💪 Opened PR [#92](https://github.com/Beatso/Bjorn/pull/92) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
 <!--END_SECTION:activity-->
 
 ### Github Stats 📄
