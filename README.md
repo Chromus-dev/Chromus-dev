@@ -41,11 +41,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#224](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/224) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-2. ❗️ Opened issue [#233](https://github.com/StormDragon77/FixedInconsistencies/issues/233) in [StormDragon77/FixedInconsistencies](https://github.com/StormDragon77/FixedInconsistencies)
-3. 🗣 Commented on [#92](https://github.com/Beatso/Bjorn/issues/92) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+1. ❗️ Opened issue [#1813](https://github.com/Automattic/node-canvas/issues/1813) in [Automattic/node-canvas](https://github.com/Automattic/node-canvas)
+2. ❗️ Opened issue [#224](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/224) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+3. ❗️ Opened issue [#233](https://github.com/StormDragon77/FixedInconsistencies/issues/233) in [StormDragon77/FixedInconsistencies](https://github.com/StormDragon77/FixedInconsistencies)
 4. 🗣 Commented on [#92](https://github.com/Beatso/Bjorn/issues/92) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-5. 💪 Opened PR [#92](https://github.com/Beatso/Bjorn/pull/92) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+5. 🗣 Commented on [#92](https://github.com/Beatso/Bjorn/issues/92) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
 <!--END_SECTION:activity-->
 
 ### Github Stats 📄
