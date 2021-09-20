@@ -36,17 +36,17 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Affinity_designer_icon_2019.png" alt="affinity designer" width="40" height="40"/>][afdesigner]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Affinity_Photo_icon.png" alt="affinity designer" width="40" height="40"/>][afphoto]
 
-### Spotify 🎧
+<!-- ### Spotify 🎧
 [![Spotify](https://novatorem-b1zrxxjw6.vercel.app/api/spotify)](https://open.spotify.com/user/csf5ivmzarxnrbpfi18vbe4id)
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1813](https://github.com/Automattic/node-canvas/issues/1813) in [Automattic/node-canvas](https://github.com/Automattic/node-canvas)
+<!-- 1. ❗️ Opened issue [#1813](https://github.com/Automattic/node-canvas/issues/1813) in [Automattic/node-canvas](https://github.com/Automattic/node-canvas)
 2. ❗️ Opened issue [#224](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/224) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
 3. ❗️ Opened issue [#233](https://github.com/StormDragon77/FixedInconsistencies/issues/233) in [StormDragon77/FixedInconsistencies](https://github.com/StormDragon77/FixedInconsistencies)
 4. 🗣 Commented on [#92](https://github.com/Beatso/Bjorn/issues/92) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-5. 🗣 Commented on [#92](https://github.com/Beatso/Bjorn/issues/92) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-<!--END_SECTION:activity-->
+5. 🗣 Commented on [#92](https://github.com/Beatso/Bjorn/issues/92) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn) -->
+<!--END_SECTION:activity--> -->
 
 ### Github Stats 📄
 ![Chromus' Github Stats](https://github-readme-stats.vercel.app/api?username=Chromus-dev&theme=vue&count_private=true&show_icons=true)
