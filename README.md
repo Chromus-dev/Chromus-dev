@@ -46,7 +46,7 @@
 3. ❗️ Opened issue [#233](https://github.com/StormDragon77/FixedInconsistencies/issues/233) in [StormDragon77/FixedInconsistencies](https://github.com/StormDragon77/FixedInconsistencies)
 4. 🗣 Commented on [#92](https://github.com/Beatso/Bjorn/issues/92) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
 5. 🗣 Commented on [#92](https://github.com/Beatso/Bjorn/issues/92) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn) -->
-<!--END_SECTION:activity--> -->
+<!--END_SECTION:activity-->
 
 ### Github Stats 📄
 ![Chromus' Github Stats](https://github-readme-stats.vercel.app/api?username=Chromus-dev&theme=vue&count_private=true&show_icons=true)
